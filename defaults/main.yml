@@ -17,3 +17,5 @@ ruby_packages:
   - wget
   - libpq-dev
   - build-essential
+  - openssh-client
+  - libcurl4-openssl-dev
